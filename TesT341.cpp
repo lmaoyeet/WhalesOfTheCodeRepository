@@ -20,6 +20,30 @@ int main(){
     cout<<"meow";
     
 }
+//-------------------------------------------------------------------------------------------------------------
+//                                                  With SelfDestruct Function
+/*#include <iostream>
+using namespace std;
+
+    int SelfDestruct(){
+      cout<<"I'm dead...";
+}
+
+int main(){
+    
+    int ChosenOne = 0;
+    cout <<"Am I brain dead?!?\n1=Yes 2=No\nAnswer: ";
+    cin>>ChosenOne;
+    
+    if(ChosenOne==1)
+      SelfDestruct();
+    else
+    cout<<"meow";
+    
+}
+*/
+//-------------------------------------------------------------------------------------------------------------------------
+//                                                      The Samuel Way
 /*
 #include <iostream>
 using namespace std;
